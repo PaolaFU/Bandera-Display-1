@@ -1,6 +1,7 @@
 # BANDERAS DISPLAY 
 
  Parte 1
+ 
  -El proyecto contiene la solucion el ejercicio parte 1 de clases practica.
 
  -Se mostrar una bandera con colores amarrillo y negro con texto en la parte 
@@ -8,5 +9,6 @@
 
 
  Herramientas utilizadas:
-	Html5, 
-	CSS3
+ 
+   Html5, 
+   CSS3
